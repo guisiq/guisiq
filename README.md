@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 👋
 
-- 🔭 Cursando Sistemas de Informação (5°período);
+- 🔭 Cursando Sistemas de Informação (8°período);
 - 🌱 Admirador de Desenvolvimento Back-End;
 - 💬 Em busca de oportunidades;
 - 📫 Contate-me: lopesgui01@gmail.com
